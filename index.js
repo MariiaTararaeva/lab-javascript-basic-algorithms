@@ -20,3 +20,6 @@ else {
 
 
 // Iteration 3: Loops
+for (let i = 0; i < hacker1.length; i++) {
+    console.log(hacker1.charAt(i).toUpperCase());
+}
